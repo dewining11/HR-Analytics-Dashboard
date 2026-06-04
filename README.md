@@ -11,7 +11,7 @@ This HR Analytics Dashboard was developed to analyze employee attrition patterns
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.pdf)
 
 ## Key Metrics
 
