@@ -1,3 +1,5 @@
+
+## Dashboard Preview
 # HR Analytics Dashboard
 
 ## Project Overview
@@ -10,10 +12,8 @@ This HR Analytics Dashboard was developed to analyze employee attrition patterns
 - Excel
 
 ## Dashboard Preview
-Dashboard HR.pdf
-Dashboard HR_v2025.3.twbx
-README.md
 
+![Dashboard](dashboard.pdf)
 
 ## Key Metrics
 
